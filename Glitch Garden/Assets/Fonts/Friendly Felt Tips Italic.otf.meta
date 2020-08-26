@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8c7f8eca437379c40821e9b26ef263c9
+timeCreated: 1483316509
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Friendly Felt Tips
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d87c50fdbcd52f418bbec31108cb6b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
